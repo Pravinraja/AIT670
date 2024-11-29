@@ -1,4 +1,4 @@
-# AIT670- Geroge Mason University: Cloud Computing Security
+# AIT670- George Mason University: Cloud Computing Security
 AIT 670 George Mason University: Improving Cloud Security Posture With Azure Sentinel: A Real Time Threat Detection Solution
 
 Folder Structure:

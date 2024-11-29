@@ -16,7 +16,7 @@ Full Extract of all Power BI Visualizations (PDF Format) + Excel files used in P
 
 Full List of of CSV and Json Files Used to load the security log data into Azure Sentinel
 
-PowerShell Scripts
+PowerShell Scripts:
 
 Full Script Used to Load data to log analytics which is later pushed to Azure Sentinel
 
@@ -26,7 +26,7 @@ Script used to convert CSV to JSON Format to Load data for Sentinel to Accept
 
 
 
-
+Project Related Work Items:
 
 PPTX File: Improving Cloud Security Posture With Azure Sentinel
 

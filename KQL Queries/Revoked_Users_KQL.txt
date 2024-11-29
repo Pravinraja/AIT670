@@ -1,0 +1,3 @@
+KQL for revoked users in Azure: This KQL query filters for user revocations in the gmu_revokedusers_CL table, counting how many revokes occurred and listing the unique users for each combination of role and justification. The results are sorted by role and justification to highlight trends or patterns in user revocations.
+
+gmu_revokedusers_CL | where Action_s == "Revoke" | summarize Count = count(), Users = make_set(Username_s) by Role_s, Justification_s | project Role_s, Justification_s, Count, Users | order by Role_s asc, Justification_s asc

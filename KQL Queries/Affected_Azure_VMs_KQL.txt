@@ -1,0 +1,9 @@
+KQL for Virtual Machine Infected logs:This KQL query analyzes logs from gmu_blocked_vm_logs_CL to identify infected virtual machines. It counts the number of events (EventCount), compiles lists of possible threats (Threats) and their descriptions (Descriptions) for each host, and then projects the results with key details like hostname and threats.
+
+gmu_blocked_vm_logs_CL
+| summarize 
+    EventCount = count(),
+    Threats = make_list(Possible_Threat_s),
+    Descriptions = make_list(Event_Description_s)
+by Hostname_s, Possible_Threat_s
+| project Hostname_s, EventCount, Threats, Descriptions, Possible_Threat_s

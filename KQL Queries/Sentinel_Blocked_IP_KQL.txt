@@ -1,0 +1,14 @@
+Below is KQL for Blocked IP's in Azure Sentinel: 
+- This KQL query analyzes logs from a custom Azure Sentinel table gmu_blocked_ip_waf_CL to find IP addresses and threats blocked in the past 60 days with specific actions: "RootKit," "Ransomware," and "Keylogger." It projects relevant fields, counts the occurrences of each unique combination of resource, IP, and threat details, and orders the results by the highest block counts.
+
+
+
+gmu_blocked_ip_waf_CL
+| where TimeGenerated >= ago(60d)
+| where Justification_s == "Blocked"
+| where Action_s  in ("RootKit","Ransomware","Keylogger") 
+| project ResourceId, tostring(SourceIP), tostring(DestinationIP_s), tostring(FileName_s), tostring(ThreatType_s), tostring(Justification_s), tostring(Action_s)
+| summarize BlockedCount = count() by ResourceId, SourceIP, DestinationIP_s, FileName_s, ThreatType_s, Justification_s, Action_s
+| order by BlockedCount desc
+
+

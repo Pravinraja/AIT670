@@ -1,0 +1,6 @@
+KQL for Non-Legit MFA Users:This KQL query analyzes the non_legit_mfa_gmu1_CL table to track failed multi-factor authentication (MFA) attempts. It calculates the total number of failed attempts (FailedAttempts) and distinct users (DistinctUsers) per day, then displays these metrics in the result.
+
+
+non_legit_mfa_gmu1_CL
+| summarize FailedAttempts = count(), DistinctUsers = dcount(User_s) by bin(TimeGenerated, 1d)
+| project FailedAttempts, DistinctUsers

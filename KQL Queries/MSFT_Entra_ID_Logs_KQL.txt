@@ -1,0 +1,6 @@
+KQL for final: entra id/active directory logs:This KQL query analyzes logs from the entra_id_gmu1_CL table, focusing on specific events such as successful/unsuccessful logons, password changes, and account lock/unlock actions. It summarizes the count of each event type (Event_s) by hour (TimeGenerated), and then projects the event details and counts for further analysis.
+
+entra_id_gmu1_CL
+| where Event_s in ('Successful Logon', 'Unsuccessful Logon', 'Password Change', 'Account Locked Out', 'Account Unlocked')
+| summarize EventCount = count() by bin(TimeGenerated, 1h), Event_s
+| project TimeGenerated, Event_s, EventCount

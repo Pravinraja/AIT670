@@ -5,10 +5,10 @@ Folder Structure:
 
 KQL Queries:
 
-Contains Full List KQL Queries Used for all different use cases: Blocked Malicious IP Addresses, Blocking User Privileges, Infected Virtual Machine Logs, Blocking Non-
+Contains Full List KQL Queries Used for all different Security use cases: Blocked Malicious IP Addresses, Blocking User Privileges, Infected Virtual Machine Logs, Blocking Non-
 Legitimate Users, and Analysis of Multifactor Authentication and MSFT Entra ID Logs.
 
-FYI: .kql is not a valid file format for sharing KQL queries. Azure Sentinel queries are typically shared and stored in plain text files
+FYI: .kql is not a valid file format for sharing KQL queries. Azure Sentinel queries are typically shared and stored in plain text files and KQL (Kusto Query Language) is primarily an Azure-specific language. It was developed by Microsoft for querying data in Azure Data Explorer (Kusto)
 
 Data Files:
 

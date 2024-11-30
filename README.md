@@ -8,7 +8,7 @@ KQL Queries:
 Contains Full List KQL Queries Used for all different Security use cases: Blocked Malicious IP Addresses, Blocking User Privileges, Infected Virtual Machine Logs, Blocking Non-
 Legitimate Users, and Analysis of Multifactor Authentication and MSFT Entra ID Logs.
 
-FYI: .kql is not a valid file format for sharing KQL queries. Azure Sentinel queries are typically shared and stored in plain text files and KQL (Kusto Query Language) is primarily an Azure-specific language. It was developed by Microsoft for querying data in Azure Data Explorer (Kusto)
+Note: .kql is not a valid file format for sharing KQL queries. Azure Sentinel queries are typically shared and stored in plain text files and KQL (Kusto Query Language) is primarily an Azure-specific language. It was developed by Microsoft for querying data in Azure Data Explorer (Kusto)
 
 Data Files:
 
@@ -21,7 +21,7 @@ PowerShell Scripts:
 Full Script Used to Load data to Azure log analytics workspace which is later pushed to Azure Sentinel [Adjust JSON Data as needed]
 
 
-JSON (JavaScript Object Notation) is a lightweight data format that uses key-value pairs to represent structured data while CSV (Comma-Separated Values) is a text-based format where data is organized in rows and columns, used for the spreadsheets. Converting data to these formats allows for easier data ingestion, parsing, and organization when loading into Microsoft Sentinel. This enables efficient querying, monitoring, and alerting, making data analysis more effective within Sentinel.
+Note: JSON (JavaScript Object Notation) is a lightweight data format that uses key-value pairs to represent structured data while CSV (Comma-Separated Values) is a text-based format where data is organized in rows and columns, used for the spreadsheets. Converting from CSV to JSON allows for easier data ingestion, parsing, and organization when loading into Microsoft Sentinel. This gives us efficient querying, monitoring, and alerting, making data analysis more effective within Azure Cloud Sentinel.
 
 Script used to convert CSV to JSON Format to Load data for Sentinel to Accept
 

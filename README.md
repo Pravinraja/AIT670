@@ -18,7 +18,10 @@ Full List of of CSV and Json Files Used to load the security log data into Azure
 
 PowerShell Scripts:
 
-Full Script Used to Load data to Azure log analytics workspace which is later pushed to Azure Sentinel
+Full Script Used to Load data to Azure log analytics workspace which is later pushed to Azure Sentinel [Adjust JSON Data as needed]
+
+
+JSON (JavaScript Object Notation) is a lightweight data format that uses key-value pairs to represent structured data while CSV (Comma-Separated Values) is a text-based format where data is organized in rows and columns, used for the spreadsheets. Converting data to these formats allows for easier data ingestion, parsing, and organization when loading into Microsoft Sentinel. This enables efficient querying, monitoring, and alerting, making data analysis more effective within Sentinel.
 
 Script used to convert CSV to JSON Format to Load data for Sentinel to Accept
 

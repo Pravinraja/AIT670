@@ -1,0 +1,452 @@
+[
+  {
+    "TimeGenerated": "2023-04-15 10:32:17",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U001",
+    "Username": "john.doe@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Web App",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-15 11:45:29",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U002",
+    "Username": "jane.smith@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Virtual Machine",
+    "Justification": "Employee termination"
+  },
+  {
+    "TimeGenerated": "2023-04-15 13:18:41",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U003",
+    "Username": "bob.johnson@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure SQL Database",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-15 14:22:53",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U004",
+    "Username": "alice.williams@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Kubernetes Service",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-15 16:37:09",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U005",
+    "Username": "tom.brown@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Active Directory",
+    "Justification": "Employee termination"
+  },
+  {
+    "TimeGenerated": "2023-04-16 9:15:22",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U006",
+    "Username": "sarah.davis@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure App Service",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-16 10:49:38",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U007",
+    "Username": "michael.wilson@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Data Lake Storage",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-16 12:27:51",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U008",
+    "Username": "emily.anderson@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Virtual Network",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-16 14:03:14",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U009",
+    "Username": "david.thomas@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure DevOps",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-16 15:41:27",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U010",
+    "Username": "jessica.moore@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Synapse Analytics",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-17 8:22:39",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U011",
+    "Username": "matthew.taylor@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Security Center",
+    "Justification": "Security audit"
+  },
+  {
+    "TimeGenerated": "2023-04-17 10:08:51",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U012",
+    "Username": "ashley.brown@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Functions",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-17 11:54:13",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U013",
+    "Username": "daniel.davis@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Cosmos DB",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-17 13:37:25",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U014",
+    "Username": "sophia.wilson@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Key Vault",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-17 15:19:41",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U015",
+    "Username": "william.anderson@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure API Management",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-18 9:01:57",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U016",
+    "Username": "jacob.thomas@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Logic Apps",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-18 10:39:14",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U017",
+    "Username": "isabella.moore@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Load Balancer",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-18 12:16:28",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U018",
+    "Username": "michael.taylor@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Data Factory",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-18 13:52:41",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U019",
+    "Username": "emma.brown@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure App Service Environment",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-18 15:27:53",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U020",
+    "Username": "william.davis@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Firewall",
+    "Justification": "Security audit"
+  },
+  {
+    "TimeGenerated": "2023-04-19 8:14:06",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U021",
+    "Username": "sophia.wilson@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Service Bus",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-19 9:48:19",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U022",
+    "Username": "jacob.anderson@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Stream Analytics",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-19 11:25:32",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U023",
+    "Username": "isabella.thomas@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Traffic Manager",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-19 13:02:45",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U024",
+    "Username": "michael.moore@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Notification Hubs",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-19 14:37:58",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U025",
+    "Username": "emma.taylor@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure HDInsight",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-20 9:21:11",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U026",
+    "Username": "william.brown@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Bastion",
+    "Justification": "Security audit"
+  },
+  {
+    "TimeGenerated": "2023-04-20 10:56:24",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U027",
+    "Username": "sophia.davis@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Event Grid",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-20 12:33:37",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U028",
+    "Username": "jacob.wilson@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Data Explorer",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-20 14:10:49",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U029",
+    "Username": "isabella.anderson@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure DDoS Protection",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-20 15:48:02",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U030",
+    "Username": "michael.thomas@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure API Management",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-21 8:03:15",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U031",
+    "Username": "emma.moore@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Kubernetes Service",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-21 9:41:28",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U032",
+    "Username": "william.taylor@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Virtual WAN",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-21 11:18:41",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U033",
+    "Username": "sophia.brown@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Data Share",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-21 12:55:54",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U034",
+    "Username": "jacob.davis@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Static Web Apps",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-21 14:33:07",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U035",
+    "Username": "isabella.wilson@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Sentinel",
+    "Justification": "Security audit"
+  },
+  {
+    "TimeGenerated": "2023-04-22 9:16:19",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U036",
+    "Username": "michael.anderson@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Spring Cloud",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-22 10:52:32",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U037",
+    "Username": "emma.thomas@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Purview",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-22 12:29:45",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U038",
+    "Username": "william.moore@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Private Link",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-22 14:07:58",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U039",
+    "Username": "sophia.taylor@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Communication Services",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-22 15:46:11",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U040",
+    "Username": "jacob.brown@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Synapse Link",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-23 8:29:23",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U041",
+    "Username": "isabella.davis@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Firewall Manager",
+    "Justification": "Security audit"
+  },
+  {
+    "TimeGenerated": "2023-04-23 10:06:36",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U042",
+    "Username": "michael.wilson@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Machine Learning",
+    "Justification": "Project completion"
+  },
+  {
+    "TimeGenerated": "2023-04-23 11:43:49",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U043",
+    "Username": "emma.anderson@company.com",
+    "Role": "DataAnalyst",
+    "Action": "Revoke",
+    "Resource": "Azure Data Bricks",
+    "Justification": "Role change"
+  },
+  {
+    "TimeGenerated": "2023-04-23 13:21:02",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U044",
+    "Username": "william.thomas@company.com",
+    "Role": "SysAdmin",
+    "Action": "Revoke",
+    "Resource": "Azure Front Door",
+    "Justification": "Infrastructure change"
+  },
+  {
+    "TimeGenerated": "2023-04-23 14:58:15",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "UserID": "U045",
+    "Username": "sophia.moore@company.com",
+    "Role": "Developer",
+    "Action": "Revoke",
+    "Resource": "Azure Bot Service",
+    "Justification": "Project completion"
+  }
+]

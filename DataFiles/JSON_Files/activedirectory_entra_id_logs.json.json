@@ -1,0 +1,706 @@
+[
+  {
+    "TimeGenerated": "2023-04-25T08:30:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.1",
+    "User": "user1@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation1"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:31:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.2",
+    "User": "user2@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation2"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:32:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.3",
+    "User": "user3@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation3"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:33:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.1",
+    "User": "user1@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation1"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:34:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.4",
+    "User": "user4@contoso.com",
+    "Event": "Account Locked Out",
+    "Workstation": "Workstation4"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:35:40.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.2",
+    "User": "user2@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation2"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:36:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.5",
+    "User": "user5@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation5"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:37:55.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.3",
+    "User": "user3@contoso.com",
+    "Event": "Account Unlocked",
+    "Workstation": "Workstation3"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:39:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.6",
+    "User": "user6@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation6"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:40:10.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.4",
+    "User": "user4@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation4"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:41:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.7",
+    "User": "user7@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation7"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:42:25.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.5",
+    "User": "user5@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation5"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:43:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.8",
+    "User": "user8@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation8"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:44:40.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.6",
+    "User": "user6@contoso.com",
+    "Event": "Account Locked Out",
+    "Workstation": "Workstation6"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:45:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.9",
+    "User": "user9@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation9"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:46:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.7",
+    "User": "user7@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation7"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:48:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.10",
+    "User": "user10@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation10"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:49:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.8",
+    "User": "user8@contoso.com",
+    "Event": "Account Unlocked",
+    "Workstation": "Workstation8"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:50:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.11",
+    "User": "user11@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation11"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:51:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.9",
+    "User": "user9@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation9"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:52:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.12",
+    "User": "user12@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation12"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:53:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.10",
+    "User": "user10@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation10"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:54:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.13",
+    "User": "user13@contoso.com",
+    "Event": "User Created",
+    "Workstation": "DC1"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:55:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.11",
+    "User": "user11@contoso.com",
+    "Event": "Group Membership Added",
+    "Workstation": "Workstation11"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:57:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.14",
+    "User": "user14@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation14"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:58:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.12",
+    "User": "user12@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation12"
+  },
+  {
+    "TimeGenerated": "2023-04-25T08:59:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.15",
+    "User": "user15@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation15"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:00:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.13",
+    "User": "user13@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation13"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:01:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.16",
+    "User": "user16@contoso.com",
+    "Event": "Account Locked Out",
+    "Workstation": "Workstation16"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:02:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.14",
+    "User": "user14@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation14"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:03:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.17",
+    "User": "user17@contoso.com",
+    "Event": "User Deleted",
+    "Workstation": "DC1"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:04:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.15",
+    "User": "user15@contoso.com",
+    "Event": "Group Membership Removed",
+    "Workstation": "Workstation15"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:06:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.18",
+    "User": "user18@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation18"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:07:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.16",
+    "User": "user16@contoso.com",
+    "Event": "Account Unlocked",
+    "Workstation": "Workstation16"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:08:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.19",
+    "User": "user19@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation19"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:09:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.17",
+    "User": "user20@contoso.com",
+    "Event": "User Created",
+    "Workstation": "DC1"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:10:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.20",
+    "User": "user21@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation20"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:11:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.18",
+    "User": "user18@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation18"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:12:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.21",
+    "User": "user22@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation21"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:13:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.19",
+    "User": "user19@contoso.com",
+    "Event": "Account Locked Out",
+    "Workstation": "Workstation19"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:15:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.22",
+    "User": "user23@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation22"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:16:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.20",
+    "User": "user21@contoso.com",
+    "Event": "Group Membership Added",
+    "Workstation": "Workstation20"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:17:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.23",
+    "User": "user24@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation23"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:18:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.21",
+    "User": "user22@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation21"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:19:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.24",
+    "User": "user25@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation24"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:20:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.22",
+    "User": "user23@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation22"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:21:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.25",
+    "User": "user26@contoso.com",
+    "Event": "Account Locked Out",
+    "Workstation": "Workstation25"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:22:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.23",
+    "User": "user24@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation23"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:24:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.26",
+    "User": "user27@contoso.com",
+    "Event": "User Created",
+    "Workstation": "DC2"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:25:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.24",
+    "User": "user25@contoso.com",
+    "Event": "Group Membership Removed",
+    "Workstation": "Workstation24"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:26:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.27",
+    "User": "user28@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation27"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:27:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.25",
+    "User": "user26@contoso.com",
+    "Event": "Account Unlocked",
+    "Workstation": "Workstation25"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:28:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.28",
+    "User": "user29@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation28"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:29:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.26",
+    "User": "user27@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation26"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:30:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.29",
+    "User": "user30@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation29"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:31:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.27",
+    "User": "user28@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation27"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:33:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.30",
+    "User": "user31@contoso.com",
+    "Event": "User Deleted",
+    "Workstation": "DC2"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:34:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.28",
+    "User": "user29@contoso.com",
+    "Event": "Group Membership Added",
+    "Workstation": "Workstation28"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:35:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.31",
+    "User": "user32@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation31"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:36:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.29",
+    "User": "user30@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation29"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:37:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.32",
+    "User": "user33@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation32"
+  },
+  {
+    "TimeGenerated": "Timestamp",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "IP Address",
+    "User": "User",
+    "Event": "Event",
+    "Workstation": "Workstation"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:38:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.30",
+    "User": "user34@contoso.com",
+    "Event": "User Created",
+    "Workstation": "DC2"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:39:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.33",
+    "User": "user35@contoso.com",
+    "Event": "Account Locked Out",
+    "Workstation": "Workstation33"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:40:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.31",
+    "User": "user32@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation31"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:42:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.34",
+    "User": "user36@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation34"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:43:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.32",
+    "User": "user33@contoso.com",
+    "Event": "Group Membership Removed",
+    "Workstation": "Workstation32"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:44:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.35",
+    "User": "user37@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation35"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:45:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.33",
+    "User": "user35@contoso.com",
+    "Event": "Account Unlocked",
+    "Workstation": "Workstation33"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:46:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.36",
+    "User": "user38@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation36"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:47:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.34",
+    "User": "user36@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation34"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:48:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.37",
+    "User": "user39@contoso.com",
+    "Event": "User Deleted",
+    "Workstation": "DC1"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:49:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.35",
+    "User": "user37@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation35"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:51:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.38",
+    "User": "user40@contoso.com",
+    "Event": "Group Membership Added",
+    "Workstation": "Workstation38"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:52:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.36",
+    "User": "user38@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation36"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:53:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.39",
+    "User": "user41@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation39"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:54:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.37",
+    "User": "user42@contoso.com",
+    "Event": "User Created",
+    "Workstation": "DC1"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:55:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.40",
+    "User": "user43@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation40"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:56:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.38",
+    "User": "user40@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation38"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:57:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.41",
+    "User": "user44@contoso.com",
+    "Event": "Account Locked Out",
+    "Workstation": "Workstation41"
+  },
+  {
+    "TimeGenerated": "2023-04-25T09:58:50.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.39",
+    "User": "user41@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation39"
+  },
+  {
+    "TimeGenerated": "2023-04-25T10:00:00.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.42",
+    "User": "user45@contoso.com",
+    "Event": "Group Membership Removed",
+    "Workstation": "Workstation42"
+  },
+  {
+    "TimeGenerated": "2023-04-25T10:01:05.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.40",
+    "User": "user43@contoso.com",
+    "Event": "Password Change",
+    "Workstation": "Workstation40"
+  },
+  {
+    "TimeGenerated": "2023-04-25T10:02:15.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.43",
+    "User": "user46@contoso.com",
+    "Event": "Unsuccessful Logon",
+    "Workstation": "Workstation43"
+  },
+  {
+    "TimeGenerated": "2023-04-25T10:03:20.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.41",
+    "User": "user44@contoso.com",
+    "Event": "Account Unlocked",
+    "Workstation": "Workstation41"
+  },
+  {
+    "TimeGenerated": "2023-04-25T10:04:30.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.44",
+    "User": "user47@contoso.com",
+    "Event": "Successful Logon",
+    "Workstation": "Workstation44"
+  },
+  {
+    "TimeGenerated": "2023-04-25T10:05:35.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.42",
+    "User": "user45@contoso.com",
+    "Event": "User Deleted",
+    "Workstation": "DC2"
+  },
+  {
+    "TimeGenerated": "2023-04-25T10:06:45.000Z",
+    "ResourceId": "/subscriptions/0ef13098-0091-4f90-823b-df2c31308c8c/resourceGroups/GmuRg1/providers/Microsoft.Storage/storageAccounts/sentinelstorage32str",
+    "IP Address": "10.0.0.45",
+    "User": "user48@contoso.com",
+    "Event": "Permission Modified",
+    "Workstation": "Workstation45"
+  }
+]

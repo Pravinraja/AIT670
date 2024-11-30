@@ -35,5 +35,7 @@ PPTX File: Improving Cloud Security Posture With Azure Sentinel
 
 Project Proposal File
 
+Project Diagram
+
 
    

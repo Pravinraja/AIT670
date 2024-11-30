@@ -12,7 +12,7 @@ FYI: .kql is not a valid file format for sharing KQL queries. Azure Sentinel que
 
 Data Files:
 
-Full Extract of all Power BI Visualizations (PDF Format) + Excel files used in Powerbi to work with visulization types
+Full Extract of all Power BI Visualizations (PDF Format) used in Powerbi to work with visulization types
 
 Full List of of CSV and Json Files Used to load the security log data into Azure Sentinel
 

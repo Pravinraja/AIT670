@@ -18,7 +18,7 @@ Full List of of CSV and Json Files Used to load the security log data into Azure
 
 PowerShell Scripts:
 
-Full Script Used to Load data to log analytics which is later pushed to Azure Sentinel
+Full Script Used to Load data to Azure log analytics workspace which is later pushed to Azure Sentinel
 
 Script used to convert CSV to JSON Format to Load data for Sentinel to Accept
 
